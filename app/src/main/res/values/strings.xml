@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MeuAplicativo</string>
+
+    <string name="entrar">Entrar</string>
+    <string name="title_cadastro">Novo Item</string>
+    <string name="title_lista">Lista Itens</string>
+
+
+
+    <string name="table_espada">Escalibur</string>
+    <string name="table_escudo">Dragon Skip</string>
+    <string name="table_vida">Poção</string>
+    <string name="table_espada1">Lunnely</string>
+
+
+    <string name="table_descricao1">Item Lendária</string>
+    <string name="table_descricao2">Item Lendário</string>
+    <string name="table_descricao3">Elixir vida max</string>
+    <string name="table_descricao4">Item Raro</string>
+</resources>
